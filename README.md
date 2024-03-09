@@ -23,7 +23,7 @@ Netflix GPT offers a seamless movie browsing experience with the following featu
 4. **OpenAI Movie Recommendations**: Enter your OpenAI key for personalized movie suggestions.
 
 ## Preview of Project
-![Capture](https://github.com/pushpakrai1607/Netflix-clone.git/assets/72153827/c575eee1-5c7b-4c4e-a866-b64b25ffa5e2)
+![Capture](https://th.bing.com/th/id/OIP.1ATOn0rDRdg_LSezzgo_UwHaEO?rs=1&pid=ImgDetMain)
 
 ## Usage
 
