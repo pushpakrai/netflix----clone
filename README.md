@@ -1,6 +1,6 @@
 # Netflix GPT Project in Namaste React Web Series By Akshay Saini
 
-[![GitHub Repository](https://img.shields.io/badge/GitHub%20Repo-Netflix%20GPT-green)](https://github.com/pushpakrai1607/Netflix-clone.git)
+[![GitHub Repository](https://img.shields.io/badge/GitHub%20Repo-Netflix%20GPT-green)](https://github.com/pushpakrai/netflix----clone)
 [![Firebase Deployment](https://img.shields.io/badge/Live-Demo)](https://netflixgpt-a347f.web.app/browse)
 
 [![React](https://img.shields.io/badge/React-Frontend-blue)](https://reactjs.org/)
@@ -42,13 +42,13 @@ To run this project locally for development purposes, follow these steps:
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/pushpakrai1607/Netflix-clone.git
+   git clone https://github.com/pushpakrai/netflix----clone.git
    ```
 
 2. Navigate to the project directory:
 
    ```shell
-   cd netflix-gpt
+   cd netflix-clone
    ```
 
 3. Install dependencies:
@@ -82,6 +82,6 @@ To enable specialized movie suggestions, obtain your OpenAI key and enter it in 
 
 ## Contribute
 
-If you'd like to contribute to this project, have suggestions for improvement, or wish to add more features, please feel free to submit issues or pull requests on [GitHub](https://github.com/pushpakrai/netflix----clone.git). Your contributions are valued! 🚀
+If you'd like to contribute to this project, have suggestions for improvement, or wish to add more features, please feel free to submit issues or pull requests on [GitHub](https://github.com/pushpakrai/netflix----clone). Your contributions are valued! 🚀
 
 Thank you for exploring Netflix GPT. We hope it enhances your movie-watching experience! 🍿
